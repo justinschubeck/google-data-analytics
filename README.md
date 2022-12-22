@@ -57,7 +57,7 @@ This project was run in Posit Cloud (formerly RStudio Cloud) and requires the dp
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/UF-Applied-ML-Systems-F22/project-2-justinschubeck.git
+   git clone https://github.com/justinschubeck/google-data-analytics
    ```
 2. View the R markdown file/code and/or the [Tableau](https://public.tableau.com/views/Google-Data-Analytics/Data?:language=en-US&:display_count=n&:origin=viz_share_link) visualizations. 
 
