@@ -1,0 +1,827 @@
+year,statistic_category,statistic_name,value,player
+2010,General,Overall,93,Ronaldo
+2010,General,Pace,92,Ronaldo
+2010,General,Shooting,89,Ronaldo
+2010,General,Passing,79,Ronaldo
+2010,General,Dribbling,93,Ronaldo
+2010,General,Defending,64,Ronaldo
+2010,General,Physical,88,Ronaldo
+2011,General,Overall,89,Ronaldo
+2011,General,Pace,94,Ronaldo
+2011,General,Shooting,90,Ronaldo
+2011,General,Passing,78,Ronaldo
+2011,General,Dribbling,93,Ronaldo
+2011,General,Defending,66,Ronaldo
+2011,General,Physical,89,Ronaldo
+2012,General,Overall,92,Ronaldo
+2012,General,Pace,92,Ronaldo
+2012,General,Shooting,90,Ronaldo
+2012,General,Passing,79,Ronaldo
+2012,General,Dribbling,93,Ronaldo
+2012,General,Defending,59,Ronaldo
+2012,General,Physical,89,Ronaldo
+2013,General,Overall,92,Ronaldo
+2013,General,Pace,92,Ronaldo
+2013,General,Shooting,90,Ronaldo
+2013,General,Passing,80,Ronaldo
+2013,General,Dribbling,92,Ronaldo
+2013,General,Defending,48,Ronaldo
+2013,General,Physical,87,Ronaldo
+2013,Pace,Acceleration,90,Ronaldo
+2013,Pace,Sprint Speed,94,Ronaldo
+2013,Shooting,Positioning,88,Ronaldo
+2013,Shooting,Finishing,91,Ronaldo
+2013,Shooting,Shot Power,94,Ronaldo
+2013,Shooting,Long Shots,92,Ronaldo
+2013,Shooting,Volleys,85,Ronaldo
+2013,Shooting,Penalties,85,Ronaldo
+2013,Passing,Vision,80,Ronaldo
+2013,Passing,Crossing,84,Ronaldo
+2013,Passing,Free Kick,79,Ronaldo
+2013,Passing,Short Passing,82,Ronaldo
+2013,Passing,Long Passing,72,Ronaldo
+2013,Passing,Curve,88,Ronaldo
+2013,Dribbling,Agility,93,Ronaldo
+2013,Dribbling,Balance,75,Ronaldo
+2013,Dribbling,Reactions,88,Ronaldo
+2013,Dribbling,Ball Control,95,Ronaldo
+2013,Dribbling,Dribbling,91,Ronaldo
+2013,Defense,Interceptions,24,Ronaldo
+2013,Defense,Heading,87,Ronaldo
+2013,Defense,Marking,22,Ronaldo
+2013,Defense,Standing Tackle,31,Ronaldo
+2013,Defense,Sliding Tackle,23,Ronaldo
+2013,Physical,Jumping,94,Ronaldo
+2013,Physical,Stamina,87,Ronaldo
+2013,Physical,Strength,79,Ronaldo
+2013,Physical,Aggression,63,Ronaldo
+2014,General,Overall,92,Ronaldo
+2014,General,Pace,93,Ronaldo
+2014,General,Shooting,90,Ronaldo
+2014,General,Passing,79,Ronaldo
+2014,General,Dribbling,91,Ronaldo
+2014,General,Defending,48,Ronaldo
+2014,General,Physical,86,Ronaldo
+2014,Pace,Acceleration,91,Ronaldo
+2014,Pace,Sprint Speed,94,Ronaldo
+2014,Shooting,Positioning,89,Ronaldo
+2014,Shooting,Finishing,92,Ronaldo
+2014,Shooting,Shot Power,94,Ronaldo
+2014,Shooting,Long Shots,93,Ronaldo
+2014,Shooting,Volleys,82,Ronaldo
+2014,Shooting,Penalties,85,Ronaldo
+2014,Passing,Vision,81,Ronaldo
+2014,Passing,Crossing,83,Ronaldo
+2014,Passing,Free Kick,79,Ronaldo
+2014,Passing,Short Passing,82,Ronaldo
+2014,Passing,Long Passing,72,Ronaldo
+2014,Passing,Curve,88,Ronaldo
+2014,Dribbling,Agility,93,Ronaldo
+2014,Dribbling,Balance,75,Ronaldo
+2014,Dribbling,Reactions,90,Ronaldo
+2014,Dribbling,Ball Control,95,Ronaldo
+2014,Dribbling,Dribbling,90,Ronaldo
+2014,Defense,Interceptions,24,Ronaldo
+2014,Defense,Heading,86,Ronaldo
+2014,Defense,Marking,22,Ronaldo
+2014,Defense,Standing Tackle,31,Ronaldo
+2014,Defense,Sliding Tackle,23,Ronaldo
+2014,Physical,Jumping,94,Ronaldo
+2014,Physical,Stamina,89,Ronaldo
+2014,Physical,Strength,79,Ronaldo
+2014,Physical,Aggression,63,Ronaldo
+2015,General,Overall,92,Ronaldo
+2015,General,Pace,93,Ronaldo
+2015,General,Shooting,93,Ronaldo
+2015,General,Passing,81,Ronaldo
+2015,General,Dribbling,91,Ronaldo
+2015,General,Defending,32,Ronaldo
+2015,General,Physical,79,Ronaldo
+2015,Pace,Acceleration,91,Ronaldo
+2015,Pace,Sprint Speed,94,Ronaldo
+2015,Shooting,Positioning,91,Ronaldo
+2015,Shooting,Finishing,95,Ronaldo
+2015,Shooting,Shot Power,94,Ronaldo
+2015,Shooting,Long Shots,93,Ronaldo
+2015,Shooting,Volleys,87,Ronaldo
+2015,Shooting,Penalties,85,Ronaldo
+2015,Passing,Vision,81,Ronaldo
+2015,Passing,Crossing,83,Ronaldo
+2015,Passing,Free Kick,79,Ronaldo
+2015,Passing,Short Passing,82,Ronaldo
+2015,Passing,Long Passing,72,Ronaldo
+2015,Passing,Curve,88,Ronaldo
+2015,Dribbling,Agility,93,Ronaldo
+2015,Dribbling,Balance,63,Ronaldo
+2015,Dribbling,Reactions,90,Ronaldo
+2015,Dribbling,Ball Control,92,Ronaldo
+2015,Dribbling,Dribbling,93,Ronaldo
+2015,Defense,Interceptions,24,Ronaldo
+2015,Defense,Heading,86,Ronaldo
+2015,Defense,Marking,22,Ronaldo
+2015,Defense,Standing Tackle,31,Ronaldo
+2015,Defense,Sliding Tackle,23,Ronaldo
+2015,Physical,Jumping,94,Ronaldo
+2015,Physical,Stamina,89,Ronaldo
+2015,Physical,Strength,79,Ronaldo
+2015,Physical,Aggression,63,Ronaldo
+2016,General,Overall,93,Ronaldo
+2016,General,Pace,92,Ronaldo
+2016,General,Shooting,93,Ronaldo
+2016,General,Passing,80,Ronaldo
+2016,General,Dribbling,90,Ronaldo
+2016,General,Defending,33,Ronaldo
+2016,General,Physical,78,Ronaldo
+2016,Pace,Acceleration,91,Ronaldo
+2016,Pace,Sprint Speed,93,Ronaldo
+2016,Shooting,Positioning,93,Ronaldo
+2016,Shooting,Finishing,95,Ronaldo
+2016,Shooting,Shot Power,94,Ronaldo
+2016,Shooting,Long Shots,93,Ronaldo
+2016,Shooting,Volleys,87,Ronaldo
+2016,Shooting,Penalties,85,Ronaldo
+2016,Passing,Vision,81,Ronaldo
+2016,Passing,Crossing,82,Ronaldo
+2016,Passing,Free Kick,78,Ronaldo
+2016,Passing,Short Passing,81,Ronaldo
+2016,Passing,Long Passing,72,Ronaldo
+2016,Passing,Curve,88,Ronaldo
+2016,Dribbling,Agility,90,Ronaldo
+2016,Dribbling,Balance,62,Ronaldo
+2016,Dribbling,Reactions,92,Ronaldo
+2016,Dribbling,Ball Control,91,Ronaldo
+2016,Dribbling,Dribbling,93,Ronaldo
+2016,Defense,Interceptions,29,Ronaldo
+2016,Defense,Heading,86,Ronaldo
+2016,Defense,Marking,22,Ronaldo
+2016,Defense,Standing Tackle,31,Ronaldo
+2016,Defense,Sliding Tackle,23,Ronaldo
+2016,Physical,Jumping,94,Ronaldo
+2016,Physical,Stamina,87,Ronaldo
+2016,Physical,Strength,79,Ronaldo
+2016,Physical,Aggression,62,Ronaldo
+2017,General,Overall,94,Ronaldo
+2017,General,Pace,92,Ronaldo
+2017,General,Shooting,92,Ronaldo
+2017,General,Passing,81,Ronaldo
+2017,General,Dribbling,91,Ronaldo
+2017,General,Defending,33,Ronaldo
+2017,General,Physical,80,Ronaldo
+2017,Pace,Acceleration,91,Ronaldo
+2017,Pace,Sprint Speed,92,Ronaldo
+2017,Shooting,Positioning,94,Ronaldo
+2017,Shooting,Finishing,93,Ronaldo
+2017,Shooting,Shot Power,94,Ronaldo
+2017,Shooting,Long Shots,92,Ronaldo
+2017,Shooting,Volleys,88,Ronaldo
+2017,Shooting,Penalties,85,Ronaldo
+2017,Passing,Vision,85,Ronaldo
+2017,Passing,Crossing,84,Ronaldo
+2017,Passing,Free Kick,77,Ronaldo
+2017,Passing,Short Passing,82,Ronaldo
+2017,Passing,Long Passing,72,Ronaldo
+2017,Passing,Curve,81,Ronaldo
+2017,Dribbling,Agility,90,Ronaldo
+2017,Dribbling,Balance,63,Ronaldo
+2017,Dribbling,Reactions,96,Ronaldo
+2017,Dribbling,Ball Control,92,Ronaldo
+2017,Dribbling,Dribbling,93,Ronaldo
+2017,Dribbling,Composure,86,Ronaldo
+2017,Defense,Interceptions,29,Ronaldo
+2017,Defense,Heading,87,Ronaldo
+2017,Defense,Marking,22,Ronaldo
+2017,Defense,Standing Tackle,31,Ronaldo
+2017,Defense,Sliding Tackle,23,Ronaldo
+2017,Physical,Jumping,95,Ronaldo
+2017,Physical,Stamina,92,Ronaldo
+2017,Physical,Strength,80,Ronaldo
+2017,Physical,Aggression,63,Ronaldo
+2018,General,Overall,94,Ronaldo
+2018,General,Pace,90,Ronaldo
+2018,General,Shooting,93,Ronaldo
+2018,General,Passing,82,Ronaldo
+2018,General,Dribbling,90,Ronaldo
+2018,General,Defending,33,Ronaldo
+2018,General,Physical,80,Ronaldo
+2018,Pace,Acceleration,89,Ronaldo
+2018,Pace,Sprint Speed,91,Ronaldo
+2018,Shooting,Positioning,95,Ronaldo
+2018,Shooting,Finishing,94,Ronaldo
+2018,Shooting,Shot Power,94,Ronaldo
+2018,Shooting,Long Shots,92,Ronaldo
+2018,Shooting,Volleys,88,Ronaldo
+2018,Shooting,Penalties,85,Ronaldo
+2018,Passing,Vision,85,Ronaldo
+2018,Passing,Crossing,85,Ronaldo
+2018,Passing,Free Kick,76,Ronaldo
+2018,Passing,Short Passing,83,Ronaldo
+2018,Passing,Long Passing,77,Ronaldo
+2018,Passing,Curve,81,Ronaldo
+2018,Dribbling,Agility,89,Ronaldo
+2018,Dribbling,Balance,63,Ronaldo
+2018,Dribbling,Reactions,96,Ronaldo
+2018,Dribbling,Ball Control,93,Ronaldo
+2018,Dribbling,Dribbling,91,Ronaldo
+2018,Dribbling,Composure,95,Ronaldo
+2018,Defense,Interceptions,29,Ronaldo
+2018,Defense,Heading,88,Ronaldo
+2018,Defense,Marking,22,Ronaldo
+2018,Defense,Standing Tackle,31,Ronaldo
+2018,Defense,Sliding Tackle,23,Ronaldo
+2018,Physical,Jumping,95,Ronaldo
+2018,Physical,Stamina,92,Ronaldo
+2018,Physical,Strength,80,Ronaldo
+2018,Physical,Aggression,63,Ronaldo
+2019,General,Overall,94,Ronaldo
+2019,General,Pace,90,Ronaldo
+2019,General,Shooting,93,Ronaldo
+2019,General,Passing,81,Ronaldo
+2019,General,Dribbling,90,Ronaldo
+2019,General,Defending,35,Ronaldo
+2019,General,Physical,79,Ronaldo
+2019,Pace,Acceleration,89,Ronaldo
+2019,Pace,Sprint Speed,91,Ronaldo
+2019,Shooting,Positioning,95,Ronaldo
+2019,Shooting,Finishing,94,Ronaldo
+2019,Shooting,Shot Power,95,Ronaldo
+2019,Shooting,Long Shots,93,Ronaldo
+2019,Shooting,Volleys,87,Ronaldo
+2019,Shooting,Penalties,85,Ronaldo
+2019,Passing,Vision,82,Ronaldo
+2019,Passing,Crossing,84,Ronaldo
+2019,Passing,Free Kick,76,Ronaldo
+2019,Passing,Short Passing,81,Ronaldo
+2019,Passing,Long Passing,77,Ronaldo
+2019,Passing,Curve,81,Ronaldo
+2019,Dribbling,Agility,87,Ronaldo
+2019,Dribbling,Balance,70,Ronaldo
+2019,Dribbling,Reactions,96,Ronaldo
+2019,Dribbling,Ball Control,94,Ronaldo
+2019,Dribbling,Dribbling,88,Ronaldo
+2019,Dribbling,Composure,95,Ronaldo
+2019,Defense,Interceptions,29,Ronaldo
+2019,Defense,Heading,89,Ronaldo
+2019,Defense,Marking,28,Ronaldo
+2019,Defense,Standing Tackle,31,Ronaldo
+2019,Defense,Sliding Tackle,23,Ronaldo
+2019,Physical,Jumping,95,Ronaldo
+2019,Physical,Stamina,88,Ronaldo
+2019,Physical,Strength,79,Ronaldo
+2019,Physical,Aggression,63,Ronaldo
+2020,General,Overall,93,Ronaldo
+2020,General,Pace,90,Ronaldo
+2020,General,Shooting,93,Ronaldo
+2020,General,Passing,82,Ronaldo
+2020,General,Dribbling,89,Ronaldo
+2020,General,Defending,35,Ronaldo
+2020,General,Physical,78,Ronaldo
+2020,Pace,Acceleration,89,Ronaldo
+2020,Pace,Sprint Speed,91,Ronaldo
+2020,Shooting,Positioning,95,Ronaldo
+2020,Shooting,Finishing,94,Ronaldo
+2020,Shooting,Shot Power,95,Ronaldo
+2020,Shooting,Long Shots,93,Ronaldo
+2020,Shooting,Volleys,87,Ronaldo
+2020,Shooting,Penalties,85,Ronaldo
+2020,Passing,Vision,82,Ronaldo
+2020,Passing,Crossing,84,Ronaldo
+2020,Passing,Free Kick,76,Ronaldo
+2020,Passing,Short Passing,83,Ronaldo
+2020,Passing,Long Passing,77,Ronaldo
+2020,Passing,Curve,81,Ronaldo
+2020,Dribbling,Agility,87,Ronaldo
+2020,Dribbling,Balance,71,Ronaldo
+2020,Dribbling,Reactions,96,Ronaldo
+2020,Dribbling,Ball Control,92,Ronaldo
+2020,Dribbling,Dribbling,89,Ronaldo
+2020,Dribbling,Composure,95,Ronaldo
+2020,Defense,Interceptions,29,Ronaldo
+2020,Defense,Heading,89,Ronaldo
+2020,Defense,Marking,28,Ronaldo
+2020,Defense,Standing Tackle,32,Ronaldo
+2020,Defense,Sliding Tackle,24,Ronaldo
+2020,Physical,Jumping,95,Ronaldo
+2020,Physical,Stamina,85,Ronaldo
+2020,Physical,Strength,78,Ronaldo
+2020,Physical,Aggression,63,Ronaldo
+2021,General,Overall,92,Ronaldo
+2021,General,Pace,89,Ronaldo
+2021,General,Shooting,93,Ronaldo
+2021,General,Passing,81,Ronaldo
+2021,General,Dribbling,89,Ronaldo
+2021,General,Defending,35,Ronaldo
+2021,General,Physical,77,Ronaldo
+2021,Pace,Acceleration,87,Ronaldo
+2021,Pace,Sprint Speed,91,Ronaldo
+2021,Shooting,Positioning,95,Ronaldo
+2021,Shooting,Finishing,95,Ronaldo
+2021,Shooting,Shot Power,94,Ronaldo
+2021,Shooting,Long Shots,93,Ronaldo
+2021,Shooting,Volleys,86,Ronaldo
+2021,Shooting,Penalties,84,Ronaldo
+2021,Passing,Vision,82,Ronaldo
+2021,Passing,Crossing,84,Ronaldo
+2021,Passing,Free Kick,76,Ronaldo
+2021,Passing,Short Passing,82,Ronaldo
+2021,Passing,Long Passing,77,Ronaldo
+2021,Passing,Curve,81,Ronaldo
+2021,Dribbling,Agility,87,Ronaldo
+2021,Dribbling,Balance,71,Ronaldo
+2021,Dribbling,Reactions,95,Ronaldo
+2021,Dribbling,Ball Control,92,Ronaldo
+2021,Dribbling,Dribbling,88,Ronaldo
+2021,Dribbling,Composure,95,Ronaldo
+2021,Defense,Interceptions,29,Ronaldo
+2021,Defense,Heading,90,Ronaldo
+2021,Defense,Marking,28,Ronaldo
+2021,Defense,Standing Tackle,32,Ronaldo
+2021,Defense,Sliding Tackle,24,Ronaldo
+2021,Physical,Jumping,95,Ronaldo
+2021,Physical,Stamina,84,Ronaldo
+2021,Physical,Strength,78,Ronaldo
+2021,Physical,Aggression,63,Ronaldo
+2022,General,Overall,91,Ronaldo
+2022,General,Pace,87,Ronaldo
+2022,General,Shooting,93,Ronaldo
+2022,General,Passing,82,Ronaldo
+2022,General,Dribbling,88,Ronaldo
+2022,General,Defending,34,Ronaldo
+2022,General,Physical,75,Ronaldo
+2022,Pace,Acceleration,85,Ronaldo
+2022,Pace,Sprint Speed,88,Ronaldo
+2022,Shooting,Positioning,95,Ronaldo
+2022,Shooting,Finishing,95,Ronaldo
+2022,Shooting,Shot Power,94,Ronaldo
+2022,Shooting,Long Shots,93,Ronaldo
+2022,Shooting,Volleys,86,Ronaldo
+2022,Shooting,Penalties,84,Ronaldo
+2022,Passing,Vision,82,Ronaldo
+2022,Passing,Crossing,87,Ronaldo
+2022,Passing,Free Kick,84,Ronaldo
+2022,Passing,Short Passing,80,Ronaldo
+2022,Passing,Long Passing,77,Ronaldo
+2022,Passing,Curve,81,Ronaldo
+2022,Dribbling,Agility,86,Ronaldo
+2022,Dribbling,Balance,74,Ronaldo
+2022,Dribbling,Reactions,94,Ronaldo
+2022,Dribbling,Ball Control,88,Ronaldo
+2022,Dribbling,Dribbling,88,Ronaldo
+2022,Dribbling,Composure,95,Ronaldo
+2022,Defense,Interceptions,29,Ronaldo
+2022,Defense,Heading,90,Ronaldo
+2022,Defense,Marking,24,Ronaldo
+2022,Defense,Standing Tackle,32,Ronaldo
+2022,Defense,Sliding Tackle,24,Ronaldo
+2022,Physical,Jumping,95,Ronaldo
+2022,Physical,Stamina,77,Ronaldo
+2022,Physical,Strength,77,Ronaldo
+2022,Physical,Aggression,63,Ronaldo
+2023,General,Overall,90,Ronaldo
+2023,General,Pace,81,Ronaldo
+2023,General,Shooting,92,Ronaldo
+2023,General,Passing,78,Ronaldo
+2023,General,Dribbling,85,Ronaldo
+2023,General,Defending,34,Ronaldo
+2023,General,Physical,75,Ronaldo
+2023,Pace,Acceleration,79,Ronaldo
+2023,Pace,Sprint Speed,83,Ronaldo
+2023,Shooting,Positioning,95,Ronaldo
+2023,Shooting,Finishing,93,Ronaldo
+2023,Shooting,Shot Power,93,Ronaldo
+2023,Shooting,Long Shots,90,Ronaldo
+2023,Shooting,Volleys,86,Ronaldo
+2023,Shooting,Penalties,90,Ronaldo
+2023,Passing,Vision,76,Ronaldo
+2023,Passing,Crossing,80,Ronaldo
+2023,Passing,Free Kick,79,Ronaldo
+2023,Passing,Short Passing,80,Ronaldo
+2023,Passing,Long Passing,75,Ronaldo
+2023,Passing,Curve,81,Ronaldo
+2023,Dribbling,Agility,77,Ronaldo
+2023,Dribbling,Balance,67,Ronaldo
+2023,Dribbling,Reactions,94,Ronaldo
+2023,Dribbling,Ball Control,88,Ronaldo
+2023,Dribbling,Dribbling,85,Ronaldo
+2023,Dribbling,Composure,95,Ronaldo
+2023,Defense,Interceptions,29,Ronaldo
+2023,Defense,Heading,90,Ronaldo
+2023,Defense,Marking,24,Ronaldo
+2023,Defense,Standing Tackle,32,Ronaldo
+2023,Defense,Sliding Tackle,24,Ronaldo
+2023,Physical,Jumping,95,Ronaldo
+2023,Physical,Stamina,76,Ronaldo
+2023,Physical,Strength,77,Ronaldo
+2023,Physical,Aggression,63,Ronaldo
+2010,General,Overall,91,Messi
+2010,General,Pace,94,Messi
+2010,General,Shooting,85,Messi
+2010,General,Passing,81,Messi
+2010,General,Dribbling,96,Messi
+2010,General,Defending,54,Messi
+2010,General,Physical,64,Messi
+2011,General,Overall,90,Messi
+2011,General,Pace,90,Messi
+2011,General,Shooting,86,Messi
+2011,General,Passing,82,Messi
+2011,General,Dribbling,96,Messi
+2011,General,Defending,55,Messi
+2011,General,Physical,66,Messi
+2012,General,Overall,94,Messi
+2012,General,Pace,93,Messi
+2012,General,Shooting,87,Messi
+2012,General,Passing,82,Messi
+2012,General,Dribbling,97,Messi
+2012,General,Defending,46,Messi
+2012,General,Physical,67,Messi
+2013,General,Overall,94,Messi
+2013,General,Pace,93,Messi
+2013,General,Shooting,88,Messi
+2013,General,Passing,84,Messi
+2013,General,Dribbling,96,Messi
+2013,General,Defending,43,Messi
+2013,General,Physical,72,Messi
+2013,Pace,Acceleration,94,Messi
+2013,Pace,Sprint Speed,92,Messi
+2013,Shooting,Positioning,92,Messi
+2013,Shooting,Finishing,95,Messi
+2013,Shooting,Shot Power,80,Messi
+2013,Shooting,Long Shots,88,Messi
+2013,Shooting,Volleys,89,Messi
+2013,Shooting,Penalties,76,Messi
+2013,Passing,Vision,90,Messi
+2013,Passing,Crossing,85,Messi
+2013,Passing,Free Kick,82,Messi
+2013,Passing,Short Passing,89,Messi
+2013,Passing,Long Passing,75,Messi
+2013,Passing,Curve,87,Messi
+2013,Dribbling,Agility,94,Messi
+2013,Dribbling,Balance,95,Messi
+2013,Dribbling,Reactions,95,Messi
+2013,Dribbling,Ball Control,96,Messi
+2013,Dribbling,Dribbling,97,Messi
+2013,Defense,Interceptions,22,Messi
+2013,Defense,Heading,73,Messi
+2013,Defense,Marking,13,Messi
+2013,Defense,Standing Tackle,21,Messi
+2013,Defense,Sliding Tackle,20,Messi
+2013,Physical,Jumping,73,Messi
+2013,Physical,Stamina,80,Messi
+2013,Physical,Strength,67,Messi
+2013,Physical,Aggression,48,Messi
+2014,General,Overall,94,Messi
+2014,General,Pace,92,Messi
+2014,General,Shooting,89,Messi
+2014,General,Passing,84,Messi
+2014,General,Dribbling,96,Messi
+2014,General,Defending,44,Messi
+2014,General,Physical,69,Messi
+2014,Pace,Acceleration,97,Messi
+2014,Pace,Sprint Speed,90,Messi
+2014,Shooting,Positioning,93,Messi
+2014,Shooting,Finishing,99,Messi
+2014,Shooting,Shot Power,83,Messi
+2014,Shooting,Long Shots,91,Messi
+2014,Shooting,Volleys,93,Messi
+2014,Shooting,Penalties,78,Messi
+2014,Passing,Vision,90,Messi
+2014,Passing,Crossing,85,Messi
+2014,Passing,Free Kick,89,Messi
+2014,Passing,Short Passing,90,Messi
+2014,Passing,Long Passing,76,Messi
+2014,Passing,Curve,90,Messi
+2014,Dribbling,Agility,96,Messi
+2014,Dribbling,Balance,97,Messi
+2014,Dribbling,Reactions,99,Messi
+2014,Dribbling,Ball Control,98,Messi
+2014,Dribbling,Dribbling,99,Messi
+2014,Defense,Interceptions,23,Messi
+2014,Defense,Heading,72,Messi
+2014,Defense,Marking,26,Messi
+2014,Defense,Standing Tackle,22,Messi
+2014,Defense,Sliding Tackle,20,Messi
+2014,Physical,Jumping,74,Messi
+2014,Physical,Stamina,99,Messi
+2014,Physical,Strength,60,Messi
+2014,Physical,Aggression,51,Messi
+2015,General,Overall,93,Messi
+2015,General,Pace,93,Messi
+2015,General,Shooting,89,Messi
+2015,General,Passing,86,Messi
+2015,General,Dribbling,96,Messi
+2015,General,Defending,27,Messi
+2015,General,Physical,62,Messi
+2015,Pace,Acceleration,96,Messi
+2015,Pace,Sprint Speed,90,Messi
+2015,Shooting,Positioning,92,Messi
+2015,Shooting,Finishing,94,Messi
+2015,Shooting,Shot Power,80,Messi
+2015,Shooting,Long Shots,88,Messi
+2015,Shooting,Volleys,85,Messi
+2015,Shooting,Penalties,76,Messi
+2015,Passing,Vision,90,Messi
+2015,Passing,Crossing,84,Messi
+2015,Passing,Free Kick,90,Messi
+2015,Passing,Short Passing,89,Messi
+2015,Passing,Long Passing,76,Messi
+2015,Passing,Curve,89,Messi
+2015,Dribbling,Agility,94,Messi
+2015,Dribbling,Balance,95,Messi
+2015,Dribbling,Reactions,94,Messi
+2015,Dribbling,Ball Control,96,Messi
+2015,Dribbling,Dribbling,96,Messi
+2015,Defense,Interceptions,22,Messi
+2015,Defense,Heading,71,Messi
+2015,Defense,Marking,25,Messi
+2015,Defense,Standing Tackle,21,Messi
+2015,Defense,Sliding Tackle,20,Messi
+2015,Physical,Jumping,73,Messi
+2015,Physical,Stamina,77,Messi
+2015,Physical,Strength,60,Messi
+2015,Physical,Aggression,48,Messi
+2016,General,Overall,94,Messi
+2016,General,Pace,92,Messi
+2016,General,Shooting,88,Messi
+2016,General,Passing,86,Messi
+2016,General,Dribbling,95,Messi
+2016,General,Defending,24,Messi
+2016,General,Physical,62,Messi
+2016,Pace,Acceleration,95,Messi
+2016,Pace,Sprint Speed,90,Messi
+2016,Shooting,Positioning,90,Messi
+2016,Shooting,Finishing,93,Messi
+2016,Shooting,Shot Power,80,Messi
+2016,Shooting,Long Shots,88,Messi
+2016,Shooting,Volleys,85,Messi
+2016,Shooting,Penalties,74,Messi
+2016,Passing,Vision,90,Messi
+2016,Passing,Crossing,80,Messi
+2016,Passing,Free Kick,90,Messi
+2016,Passing,Short Passing,88,Messi
+2016,Passing,Long Passing,79,Messi
+2016,Passing,Curve,89,Messi
+2016,Dribbling,Agility,92,Messi
+2016,Dribbling,Balance,95,Messi
+2016,Dribbling,Reactions,92,Messi
+2016,Dribbling,Ball Control,96,Messi
+2016,Dribbling,Dribbling,96,Messi
+2016,Defense,Interceptions,22,Messi
+2016,Defense,Heading,71,Messi
+2016,Defense,Marking,13,Messi
+2016,Defense,Standing Tackle,23,Messi
+2016,Defense,Sliding Tackle,21,Messi
+2016,Physical,Jumping,68,Messi
+2016,Physical,Stamina,76,Messi
+2016,Physical,Strength,59,Messi
+2016,Physical,Aggression,48,Messi
+2017,General,Overall,93,Messi
+2017,General,Pace,89,Messi
+2017,General,Shooting,90,Messi
+2017,General,Passing,86,Messi
+2017,General,Dribbling,96,Messi
+2017,General,Defending,26,Messi
+2017,General,Physical,61,Messi
+2017,Pace,Acceleration,92,Messi
+2017,Pace,Sprint Speed,87,Messi
+2017,Shooting,Positioning,93,Messi
+2017,Shooting,Finishing,95,Messi
+2017,Shooting,Shot Power,85,Messi
+2017,Shooting,Long Shots,88,Messi
+2017,Shooting,Volleys,85,Messi
+2017,Shooting,Penalties,74,Messi
+2017,Passing,Vision,90,Messi
+2017,Passing,Crossing,77,Messi
+2017,Passing,Free Kick,90,Messi
+2017,Passing,Short Passing,88,Messi
+2017,Passing,Long Passing,87,Messi
+2017,Passing,Curve,89,Messi
+2017,Dribbling,Agility,90,Messi
+2017,Dribbling,Balance,95,Messi
+2017,Dribbling,Reactions,95,Messi
+2017,Dribbling,Ball Control,95,Messi
+2017,Dribbling,Dribbling,97,Messi
+2017,Dribbling,Composure,96,Messi
+2017,Defense,Interceptions,22,Messi
+2017,Defense,Heading,71,Messi
+2017,Defense,Marking,13,Messi
+2017,Defense,Standing Tackle,28,Messi
+2017,Defense,Sliding Tackle,26,Messi
+2017,Physical,Jumping,68,Messi
+2017,Physical,Stamina,73,Messi
+2017,Physical,Strength,59,Messi
+2017,Physical,Aggression,48,Messi
+2018,General,Overall,93,Messi
+2018,General,Pace,89,Messi
+2018,General,Shooting,90,Messi
+2018,General,Passing,86,Messi
+2018,General,Dribbling,95,Messi
+2018,General,Defending,26,Messi
+2018,General,Physical,61,Messi
+2018,Pace,Acceleration,92,Messi
+2018,Pace,Sprint Speed,87,Messi
+2018,Shooting,Positioning,93,Messi
+2018,Shooting,Finishing,95,Messi
+2018,Shooting,Shot Power,85,Messi
+2018,Shooting,Long Shots,88,Messi
+2018,Shooting,Volleys,85,Messi
+2018,Shooting,Penalties,74,Messi
+2018,Passing,Vision,90,Messi
+2018,Passing,Crossing,77,Messi
+2018,Passing,Free Kick,90,Messi
+2018,Passing,Short Passing,88,Messi
+2018,Passing,Long Passing,87,Messi
+2018,Passing,Curve,89,Messi
+2018,Dribbling,Agility,90,Messi
+2018,Dribbling,Balance,95,Messi
+2018,Dribbling,Reactions,95,Messi
+2018,Dribbling,Ball Control,95,Messi
+2018,Dribbling,Dribbling,97,Messi
+2018,Dribbling,Composure,96,Messi
+2018,Defense,Interceptions,22,Messi
+2018,Defense,Heading,71,Messi
+2018,Defense,Marking,13,Messi
+2018,Defense,Standing Tackle,28,Messi
+2018,Defense,Sliding Tackle,26,Messi
+2018,Physical,Jumping,68,Messi
+2018,Physical,Stamina,73,Messi
+2018,Physical,Strength,59,Messi
+2018,Physical,Aggression,48,Messi
+2019,General,Overall,94,Messi
+2019,General,Pace,88,Messi
+2019,General,Shooting,91,Messi
+2019,General,Passing,88,Messi
+2019,General,Dribbling,96,Messi
+2019,General,Defending,32,Messi
+2019,General,Physical,61,Messi
+2019,Pace,Acceleration,91,Messi
+2019,Pace,Sprint Speed,86,Messi
+2019,Shooting,Positioning,94,Messi
+2019,Shooting,Finishing,95,Messi
+2019,Shooting,Shot Power,85,Messi
+2019,Shooting,Long Shots,94,Messi
+2019,Shooting,Volleys,86,Messi
+2019,Shooting,Penalties,75,Messi
+2019,Passing,Vision,94,Messi
+2019,Passing,Crossing,77,Messi
+2019,Passing,Free Kick,94,Messi
+2019,Passing,Short Passing,90,Messi
+2019,Passing,Long Passing,87,Messi
+2019,Passing,Curve,93,Messi
+2019,Dribbling,Agility,91,Messi
+2019,Dribbling,Balance,95,Messi
+2019,Dribbling,Reactions,95,Messi
+2019,Dribbling,Ball Control,96,Messi
+2019,Dribbling,Dribbling,97,Messi
+2019,Dribbling,Composure,96,Messi
+2019,Defense,Interceptions,22,Messi
+2019,Defense,Heading,70,Messi
+2019,Defense,Marking,33,Messi
+2019,Defense,Standing Tackle,28,Messi
+2019,Defense,Sliding Tackle,26,Messi
+2019,Physical,Jumping,68,Messi
+2019,Physical,Stamina,72,Messi
+2019,Physical,Strength,59,Messi
+2019,Physical,Aggression,48,Messi
+2020,General,Overall,94,Messi
+2020,General,Pace,87,Messi
+2020,General,Shooting,92,Messi
+2020,General,Passing,92,Messi
+2020,General,Dribbling,96,Messi
+2020,General,Defending,39,Messi
+2020,General,Physical,66,Messi
+2020,Pace,Acceleration,91,Messi
+2020,Pace,Sprint Speed,84,Messi
+2020,Shooting,Positioning,94,Messi
+2020,Shooting,Finishing,95,Messi
+2020,Shooting,Shot Power,86,Messi
+2020,Shooting,Long Shots,94,Messi
+2020,Shooting,Volleys,88,Messi
+2020,Shooting,Penalties,75,Messi
+2020,Passing,Vision,94,Messi
+2020,Passing,Crossing,88,Messi
+2020,Passing,Free Kick,94,Messi
+2020,Passing,Short Passing,92,Messi
+2020,Passing,Long Passing,92,Messi
+2020,Passing,Curve,93,Messi
+2020,Dribbling,Agility,93,Messi
+2020,Dribbling,Balance,95,Messi
+2020,Dribbling,Reactions,95,Messi
+2020,Dribbling,Ball Control,96,Messi
+2020,Dribbling,Dribbling,97,Messi
+2020,Dribbling,Composure,96,Messi
+2020,Defense,Interceptions,40,Messi
+2020,Defense,Heading,70,Messi
+2020,Defense,Marking,33,Messi
+2020,Defense,Standing Tackle,37,Messi
+2020,Defense,Sliding Tackle,26,Messi
+2020,Physical,Jumping,68,Messi
+2020,Physical,Stamina,75,Messi
+2020,Physical,Strength,68,Messi
+2020,Physical,Aggression,48,Messi
+2021,General,Overall,93,Messi
+2021,General,Pace,85,Messi
+2021,General,Shooting,92,Messi
+2021,General,Passing,91,Messi
+2021,General,Dribbling,95,Messi
+2021,General,Defending,38,Messi
+2021,General,Physical,65,Messi
+2021,Pace,Acceleration,91,Messi
+2021,Pace,Sprint Speed,80,Messi
+2021,Shooting,Positioning,93,Messi
+2021,Shooting,Finishing,95,Messi
+2021,Shooting,Shot Power,86,Messi
+2021,Shooting,Long Shots,94,Messi
+2021,Shooting,Volleys,88,Messi
+2021,Shooting,Penalties,75,Messi
+2021,Passing,Vision,95,Messi
+2021,Passing,Crossing,85,Messi
+2021,Passing,Free Kick,94,Messi
+2021,Passing,Short Passing,91,Messi
+2021,Passing,Long Passing,91,Messi
+2021,Passing,Curve,93,Messi
+2021,Dribbling,Agility,91,Messi
+2021,Dribbling,Balance,95,Messi
+2021,Dribbling,Reactions,94,Messi
+2021,Dribbling,Ball Control,96,Messi
+2021,Dribbling,Dribbling,96,Messi
+2021,Dribbling,Composure,96,Messi
+2021,Defense,Interceptions,40,Messi
+2021,Defense,Heading,70,Messi
+2021,Defense,Marking,32,Messi
+2021,Defense,Standing Tackle,35,Messi
+2021,Defense,Sliding Tackle,24,Messi
+2021,Physical,Jumping,68,Messi
+2021,Physical,Stamina,72,Messi
+2021,Physical,Strength,69,Messi
+2021,Physical,Aggression,44,Messi
+2022,General,Overall,93,Messi
+2022,General,Pace,85,Messi
+2022,General,Shooting,92,Messi
+2022,General,Passing,91,Messi
+2022,General,Dribbling,95,Messi
+2022,General,Defending,34,Messi
+2022,General,Physical,65,Messi
+2022,Pace,Acceleration,91,Messi
+2022,Pace,Sprint Speed,80,Messi
+2022,Shooting,Positioning,93,Messi
+2022,Shooting,Finishing,95,Messi
+2022,Shooting,Shot Power,86,Messi
+2022,Shooting,Long Shots,94,Messi
+2022,Shooting,Volleys,88,Messi
+2022,Shooting,Penalties,75,Messi
+2022,Passing,Vision,95,Messi
+2022,Passing,Crossing,85,Messi
+2022,Passing,Free Kick,94,Messi
+2022,Passing,Short Passing,91,Messi
+2022,Passing,Long Passing,91,Messi
+2022,Passing,Curve,93,Messi
+2022,Dribbling,Agility,91,Messi
+2022,Dribbling,Balance,95,Messi
+2022,Dribbling,Reactions,94,Messi
+2022,Dribbling,Ball Control,96,Messi
+2022,Dribbling,Dribbling,96,Messi
+2022,Dribbling,Composure,96,Messi
+2022,Defense,Interceptions,40,Messi
+2022,Defense,Heading,70,Messi
+2022,Defense,Marking,20,Messi
+2022,Defense,Standing Tackle,35,Messi
+2022,Defense,Sliding Tackle,24,Messi
+2022,Physical,Jumping,68,Messi
+2022,Physical,Stamina,72,Messi
+2022,Physical,Strength,69,Messi
+2022,Physical,Aggression,44,Messi
+2023,General,Overall,91,Messi
+2023,General,Pace,81,Messi
+2023,General,Shooting,89,Messi
+2023,General,Passing,90,Messi
+2023,General,Dribbling,94,Messi
+2023,General,Defending,34,Messi
+2023,General,Physical,64,Messi
+2023,Pace,Acceleration,87,Messi
+2023,Pace,Sprint Speed,76,Messi
+2023,Shooting,Positioning,93,Messi
+2023,Shooting,Finishing,90,Messi
+2023,Shooting,Shot Power,86,Messi
+2023,Shooting,Long Shots,91,Messi
+2023,Shooting,Volleys,88,Messi
+2023,Shooting,Penalties,75,Messi
+2023,Passing,Vision,94,Messi
+2023,Passing,Crossing,84,Messi
+2023,Passing,Free Kick,93,Messi
+2023,Passing,Short Passing,91,Messi
+2023,Passing,Long Passing,90,Messi
+2023,Passing,Curve,93,Messi
+2023,Dribbling,Agility,91,Messi
+2023,Dribbling,Balance,95,Messi
+2023,Dribbling,Reactions,92,Messi
+2023,Dribbling,Ball Control,93,Messi
+2023,Dribbling,Dribbling,95,Messi
+2023,Dribbling,Composure,96,Messi
+2023,Defense,Interceptions,40,Messi
+2023,Defense,Heading,70,Messi
+2023,Defense,Marking,20,Messi
+2023,Defense,Standing Tackle,35,Messi
+2023,Defense,Sliding Tackle,24,Messi
+2023,Physical,Jumping,68,Messi
+2023,Physical,Stamina,70,Messi
+2023,Physical,Strength,68,Messi
+2023,Physical,Aggression,44,Messi
