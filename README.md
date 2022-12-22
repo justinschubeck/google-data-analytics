@@ -9,7 +9,7 @@
   </p>
 </p>
 
-## University of Florida : Electrical and Computer Engineering](https://www.ece.ufl.edu/)<br />Coursera - Google Data Analytics Professional Certificate
+## University of Florida : [Electrical and Computer Engineering](https://www.ece.ufl.edu/)<br />Coursera - [Google Data Analytics Professional Certificate](https://www.credly.com/badges/3de9ae30-4dfb-4c81-b3ba-b8c715fb7411/linked_in_profile)
 Students: [Justin Schubeck](https://www.linkedin.com/in/justinschubeck/) <br />
 
 <!-- TABLE OF CONTENTS -->
